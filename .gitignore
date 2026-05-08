@@ -14,4 +14,4 @@ sound/backup/*
 
 # backup은 제외하지만 lion1.mp3만 포함
 !sound/backup/
-!sound/backup/lion1.mp3  
+!sound/backup/lion1.mp3
